@@ -40,8 +40,6 @@ var total = (count * priced);
 console.log(fruitName);
 console.log(total);
 
-// Keywords 
-// 'var' , 'let' , 'const' , 'if' , 'for' , 'switch' , 'return' , 'function'
-
-
-
+/* Keywords 
+'var' , 'let' , 'const' , 'if' , 'for' , 'switch' , 'return' , 'function'
+*/
