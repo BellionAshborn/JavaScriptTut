@@ -3,6 +3,10 @@
 // let - Local Scope 
 // var - Global Scope
 
+// Var -- Can Be Redeclared and Reinitialzed 
+// let -- Can Be Reinitialzed but not Redeclared
+// const -- Can't Be Reinitialzed and Redeclared as well 
+
 { 
     var a = 10; 
     var b = 20;    // If these values should be used globaly then it is defiend with "Var" 
